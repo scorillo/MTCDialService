@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MTCDialService</string>
+    <string name="BluetoothNotAvailable">Bluetooth is not available</string>
+</resources>
+
+
+
